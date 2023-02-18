@@ -1,11 +1,11 @@
-[![MasterHead](https://www.rockvalleycollege.edu/images/Mechatronics-Banner.jpg)]
+![MasterHead](https://a-group.com.tr/media/images/mekatronik-banner.jpg)
 <h1 align="center">Hi 👋, I'm Angelo Mandros Ramos</h1>
 <h3 align="center">A full dedicate mechatronic engineer and coder</h3>
-<img align="center" alt="" width="400" src="https://www.macsa.com/wp-content/uploads/2022/06/0b8837db-8665-9280-86e9-2dca0067d152-1-1.gif">
+<img align="center" alt="" width="100%" src="https://www.macsa.com/wp-content/uploads/2022/06/0b8837db-8665-9280-86e9-2dca0067d152-1-1.gif">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norbory" alt="norbory" /></a> </p>
 
-- 🔭 I’m currently working on **a Navy contest**
+- 🔭 I’m currently working on **a peruvian navy contest**
 
 - 🌱 I’m currently learning **React native and R**
 

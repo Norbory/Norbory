@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **a peruvian navy contest**
 
-- 🌱 I’m currently learning **React native and R**
+- 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **Data analitycs**
+- 👯 I’m looking to collaborate on **Software Development**
 
-- 🤝 I’m looking for help with **a webpage for dessert e-commerce**
+- 🤝 I’m looking for help with **a digital warehouse of sneakers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Norbory](https://github.com/Norbory)
 

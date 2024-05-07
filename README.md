@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **a peruvian navy contest**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Ruby**
 
 - 👯 I’m looking to collaborate on **Software Development**
 
-- 🤝 I’m looking for help with **a digital warehouse of sneakers**
+- 🤝 I’m looking for help with **Web scraping**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Norbory](https://github.com/Norbory)
 
-- 💬 Ask me about **Front-end and sensors**
+- 💬 Ask me about **Code and Basketball**
 
 - 📫 How to reach me **mandros.angelof@pucp.edu.pe**
 

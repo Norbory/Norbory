@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norbory&label=Profile%20views&color=0e75b6&style=flat" alt="norbory" /> </p>
 
-- 🔭 I’m currently working on **a peruvian navy contest**
+- 🔭 I’m currently working on **Indra**
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **Software Development**
+- 👯 I’m looking to collaborate on a **Nasa Hackathon Team**
 
-- 🤝 I’m looking for help with **Web scraping**
+- 🤝 I’m looking for help with **FPGA programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Norbory](https://github.com/Norbory)
 
